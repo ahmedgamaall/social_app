@@ -1,9 +1,9 @@
 # Project: Social Media App
 
-## ***Description:***
+## Description:
 The Social Media App is a Flutter-based mobile application that allows users to connect, share, and interact with others through posts, messaging, and profile customization. The app integrates various Firebase services, including Firebase Authentication, Firebase Cloud Storage, and Firebase Cloud Firestore, to provide secure user authentication, efficient data storage, and real-time communication.
 
-## ***Features:***
+## Features:
 
 1. User Registration and Authentication:
    - Users can create accounts and securely log in using Firebase Authentication.
